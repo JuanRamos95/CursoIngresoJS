@@ -4,5 +4,16 @@ Mostar el resulto por medio de "ALERT"*/
 function sumar()
 {
 
+var numeroUno;
+var numeroDos;
+var suma;
+
+
+numeroUno=parseInt(`numeroUno´);
+numeroDos=parseInt(`numeroDos´);
+
+suma=numeroUno+numeroDos;
+
+
 }
 
