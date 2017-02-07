@@ -3,8 +3,8 @@ y luego mostrarlo por 'Alert' al presionar el botón  'MOSTRAR'*/
 function Mostar()
 {
 	nombre=document.getElementById('elNombre').value;
-	alert(nombre);
-	alert("elNombre ingresado es:" +nombre);
+	
+	alert("el nombre ingresado es:" +nombre);
 
 }
 
