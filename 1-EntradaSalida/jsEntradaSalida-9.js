@@ -9,25 +9,7 @@ var resultado;
 
 sueldo=document.getElementById('sueldo').value;
 
-
-
-
 resultado=sueldo*1.1;
 
-
-
-
-
-
-
-
 document.getElementById('resultado').value=resultado;
-
-
-
-
-
-
-
-	
 }
