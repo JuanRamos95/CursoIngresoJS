@@ -6,7 +6,6 @@ function Mostrar()
 
 	while(cont <10)
 	{
-		cont=cont +1;
 		cont ++;
 		alert(cont)
 	}
